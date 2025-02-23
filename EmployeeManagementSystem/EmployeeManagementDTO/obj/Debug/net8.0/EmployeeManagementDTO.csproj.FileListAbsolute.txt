@@ -1,0 +1,11 @@
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDTO\bin\Debug\net8.0\EmployeeManagementDTO.deps.json
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDTO\bin\Debug\net8.0\EmployeeManagementDTO.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDTO\bin\Debug\net8.0\EmployeeManagementDTO.pdb
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDTO\obj\Debug\net8.0\EmployeeManagementDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDTO\obj\Debug\net8.0\EmployeeManagementDTO.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDTO\obj\Debug\net8.0\EmployeeManagementDTO.AssemblyInfo.cs
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDTO\obj\Debug\net8.0\EmployeeManagementDTO.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDTO\obj\Debug\net8.0\EmployeeManagementDTO.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDTO\obj\Debug\net8.0\refint\EmployeeManagementDTO.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDTO\obj\Debug\net8.0\EmployeeManagementDTO.pdb
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDTO\obj\Debug\net8.0\ref\EmployeeManagementDTO.dll
