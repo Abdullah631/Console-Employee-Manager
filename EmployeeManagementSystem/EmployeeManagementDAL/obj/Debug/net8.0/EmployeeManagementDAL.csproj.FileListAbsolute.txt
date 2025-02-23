@@ -1,0 +1,15 @@
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\bin\Debug\net8.0\EmployeeManagementDAL.deps.json
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\bin\Debug\net8.0\EmployeeManagementDAL.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\bin\Debug\net8.0\EmployeeManagementDAL.pdb
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\bin\Debug\net8.0\EmployeeManagementDTO.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\bin\Debug\net8.0\EmployeeManagementDTO.pdb
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.AssemblyInfo.cs
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\obj\Debug\net8.0\Employee.7A2EDEC7.Up2Date
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\obj\Debug\net8.0\refint\EmployeeManagementDAL.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.pdb
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementDAL\obj\Debug\net8.0\ref\EmployeeManagementDAL.dll

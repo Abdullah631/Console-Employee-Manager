@@ -1,0 +1,17 @@
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\bin\Debug\net8.0\EmployeeManagementBLL.deps.json
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\bin\Debug\net8.0\EmployeeManagementBLL.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\bin\Debug\net8.0\EmployeeManagementBLL.pdb
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\bin\Debug\net8.0\EmployeeManagementDAL.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\bin\Debug\net8.0\EmployeeManagementDTO.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\bin\Debug\net8.0\EmployeeManagementDAL.pdb
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\bin\Debug\net8.0\EmployeeManagementDTO.pdb
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\obj\Debug\net8.0\EmployeeManagementBLL.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\obj\Debug\net8.0\EmployeeManagementBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\obj\Debug\net8.0\EmployeeManagementBLL.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\obj\Debug\net8.0\EmployeeManagementBLL.AssemblyInfo.cs
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\obj\Debug\net8.0\EmployeeManagementBLL.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\obj\Debug\net8.0\Employee.1C6BA27D.Up2Date
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\obj\Debug\net8.0\EmployeeManagementBLL.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\obj\Debug\net8.0\refint\EmployeeManagementBLL.dll
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\obj\Debug\net8.0\EmployeeManagementBLL.pdb
+C:\Users\abdul\source\repos\EmployeeManagementSystem\EmployeeManagementBLL\obj\Debug\net8.0\ref\EmployeeManagementBLL.dll
